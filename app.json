@@ -1,7 +1,7 @@
 {
     "name": "☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬",
     "description": "whatsapp md bot ☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "https://github.com/Disna13/VihangaBot-MD-V3",
     "logo": "https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/305881945_493203062649096_3426937969939298639_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UGH1lC30sQMAX9stzM4&_nc_ht=scontent.fcmb3-2.fna&oh=00_AT8fTwk_G7EQgtBsTquLPSva8N-vtk9Z6N3ZwD7D_4XZxQ&oe=6320519F",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
