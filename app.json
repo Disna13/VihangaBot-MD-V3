@@ -1,8 +1,8 @@
 {
-    "name": "VIHANA MD",
-    "description": "whatsapp md bot build with nodejs",
+    "name": "☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬",
+    "description": "whatsapp md bot ☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "logo": "https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/305881945_493203062649096_3426937969939298639_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UGH1lC30sQMAX9stzM4&_nc_ht=scontent.fcmb3-2.fna&oh=00_AT8fTwk_G7EQgtBsTquLPSva8N-vtk9Z6N3ZwD7D_4XZxQ&oe=6320519F",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
@@ -44,13 +44,13 @@
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
-  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/CiMzfJtCiJNKroRgSZbx1F*"
     },
         
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
-  "value" : "*HELLO WELCOME TO OUR GROUP*"
+  "value" : "*📱🖥️Windows & Any Technology Help 🖥️📱*"
     },
   
                 "BYE_MSG" :{
@@ -62,7 +62,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬ ALIVE NOW*"
     },
         
 "CALL_BLOCK" :{
@@ -98,67 +98,67 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+94768084855"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+94768084855"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "+94724400066"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/CiMzfJtCiJNKroRgSZbx1F"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
-    "required" : true,
+    "required" : false,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY ☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY ☬𝐓𝐇𝐀𝐌𝐈𝐍𝐃𝐔 𝐃𝐈𝐒𝐍𝐀☬*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/305881945_493203062649096_3426937969939298639_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UGH1lC30sQMAX9stzM4&_nc_ht=scontent.fcmb3-2.fna&oh=00_AT8fTwk_G7EQgtBsTquLPSva8N-vtk9Z6N3ZwD7D_4XZxQ&oe=6320519F"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "value" :"https://www.youtube.com/channel/UCV9YD7Jt3M-wak61MPqWogw"
     }
     },
   
